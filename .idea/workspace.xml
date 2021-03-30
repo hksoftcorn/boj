@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aae56e38-439d-479e-a4aa-c9ef8eb882b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1874_스택 수열(틀림)/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1874_스택 수열(틀림)/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4949_균형잡힌 세상(입력받기)/sol1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준특강/1242_소풍/sol1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준특강/12871_무한 문자열/sol1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/괄호/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/9012_괄호/sol1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,43 +16,43 @@
     <session id="-244997886">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="29" />
+          <entry key="py" value="31" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="29" />
+          <entry key="Python" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="351" />
           <entry key="dummy" value="14" />
-          <entry key="py" value="5033" />
+          <entry key="py" value="5271" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="5384" />
+          <entry key="Python" value="5622" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -103,6 +100,8 @@
         <option value="$PROJECT_DIR$/1874_스택 수열/내ㅣ1.py" />
         <option value="$PROJECT_DIR$/1874_스택 수열/input.txt" />
         <option value="$PROJECT_DIR$/1874_스택 수열/sol1.py" />
+        <option value="$PROJECT_DIR$/백준특강/12871_무한 문자열/sol1.py" />
+        <option value="$PROJECT_DIR$/백준특강/1242_소풍/sol1.py" />
       </list>
     </option>
   </component>
@@ -119,6 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,11 +136,15 @@
               <item name="boj" type="462c0819:PsiDirectoryNode" />
               <item name="4949_균형잡힌 세상(입력받기)" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="boj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boj" type="462c0819:PsiDirectoryNode" />
+              <item name="백준특강" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -398,9 +402,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/9012_괄호/sol1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9012_괄호/sol1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="23" lean-forward="true" selection-end-line="19" />
@@ -428,6 +429,20 @@
           <folding>
             <marker date="1616903525978" expanded="true" signature="579:582" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준특강/12871_무한 문자열/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준특강/1242_소풍/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
