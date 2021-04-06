@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aae56e38-439d-479e-a4aa-c9ef8eb882b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1436_영화감독 숌/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7568_덩치/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7568_덩치/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved/브루트 포스/2798_블랙잭/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/재귀/10870_피보나치 수/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/재귀/10872_팩토리얼/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/재귀/10872_팩토리얼/sol2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/재귀/11729_하노이탑(시도중)/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/재귀/2447_별 찍기(못품)/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/재귀/2447_별 찍기(못품)/sol1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2798_블랙잭/sol1.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,13 +14,14 @@
     <session id="-244997886">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -144,7 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,10 +156,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hksoftcorn.dev/algorithm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -535,9 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <marker date="1617201053267" expanded="true" signature="30:35" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -558,9 +545,7 @@
     <entry file="file://$PROJECT_DIR$/solved/브루트 포스/2231_분해합/sol1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/부르트 포스/sol1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/부르트 포스/sol1.py" />
     <entry file="file://$PROJECT_DIR$/solved/브루트 포스/2798_블랙잭/sol1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
